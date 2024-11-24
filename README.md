@@ -1,6 +1,6 @@
 <div align="center">
   
-### *A simple BMI calculator written in C# and .NET.*
+### *A simple command-line BMI calculator written in C# and .NET.*
 
 </div>
 
